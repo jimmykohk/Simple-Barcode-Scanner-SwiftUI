@@ -1,2 +1,4 @@
 # Simple Barcode Scanner - SwiftUI
- The simple barcode scanner interact with SwiftUI and UIKit
+ This is the example that using UIViewControllerRepresentable to interact with UIViewController.
+
+When the camera detects the barcode (e.g. code128, QR Code), it will return the string value and dismiss the presented view.
